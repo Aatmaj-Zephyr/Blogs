@@ -21,7 +21,7 @@ const About = () => {
             <Col sm md="6">
               <div className="aboutHeader">About</div>
               <p>
-                We at KJSCE COdeCell have created this one stop destination for
+                We at KJSCE CodeCell have created this one stop destination for
                 all the technical know-how you would require to set sail in the
                 fascinating world of coding.
               </p>
