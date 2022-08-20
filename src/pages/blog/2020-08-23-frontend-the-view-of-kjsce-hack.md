@@ -11,6 +11,7 @@ tags:
   - Coding
   - CodeCell
 ---
+
 <!--StartFragment-->
 
 The day began with the entire team fresh and frolic to welcome all the participants to the big day. A few of our out of station participants had already arrived the day prior to the main event. We served breakfast for all the participants arriving early.
@@ -29,13 +30,13 @@ Thereafter, the themes for the Hackathon were announced.
 
 The themes for the hackathon were:
 
-* **AI/ ML** which is the most trending and hottest topic of the decade.
-* **IoT** for all the hardware enthusiasts that were present.
-* **Fintech** for those who had a keen interest in finance
-* To make the lives of our peers easier in some way the **Education** theme was presented.
-* For the people who literally think out of the world, **AR/VR** was the choice given.
-* For the ones who believe that Health is Wealth, **Healthtech** was the one to explore.
-* People with trust issues could explore the **Blockchain** track.
+- **AI/ ML** which is the most trending and hottest topic of the decade.
+- **IoT** for all the hardware enthusiasts that were present.
+- **Fintech** for those who had a keen interest in finance
+- To make the lives of our peers easier in some way the **Education** theme was presented.
+- For the people who literally think out of the world, **AR/VR** was the choice given.
+- For the ones who believe that Health is Wealth, **Healthtech** was the one to explore.
+- People with trust issues could explore the **Blockchain** track.
 
 So in all, we had 7 themes for them to explore and exploit to the fullest.
 

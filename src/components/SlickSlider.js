@@ -2,7 +2,7 @@ import React, { Fragment } from "react";
 import Slider from "react-slick";
 import { Link } from "gatsby";
 import { CardImg } from "reactstrap";
-import TagsYAML from '../admin-config/tagslist.yml';
+import TagsYAML from "../admin-config/tagslist.yml";
 
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
@@ -10,7 +10,6 @@ import "slick-carousel/slick/slick-theme.css";
 import "bootstrap/dist/css/bootstrap.min.css";
 
 import "../sass/cards.sass";
-
 
 const _ = require("lodash");
 
@@ -60,7 +59,6 @@ const settings = {
 };
 
 const SlickSlider = () => {
-
   // const data = useStaticQuery(graphql`
   //   query categorySliderQuery {
   //     allMarkdownRemark {
@@ -83,13 +81,13 @@ const SlickSlider = () => {
   // });
 
   // var finalTagsArray = _.uniq(tagsArray);
-  
-  var finalTagsArray = TagsYAML.tagslist
+
+  var finalTagsArray = TagsYAML.tagslist;
 
   const renderFallbackImg = (e) => {
     // Will replace broken image
-    e.target.src = "https://via.placeholder.com/200?text=."
-  }
+    e.target.src = "https://via.placeholder.com/200?text=.";
+  };
 
   return (
     <Fragment>

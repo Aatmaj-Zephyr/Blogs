@@ -12,9 +12,7 @@ class TagRoute extends React.Component {
     const postLinks = posts.map((post) => (
       <ListGroupItem key={post.node.fields.slug}>
         <Link to={post.node.fields.slug} className="hover-underline">
-          <h2 className="is-size-3">
-            {post.node.frontmatter.title}
-          </h2>
+          <h2 className="is-size-3">{post.node.frontmatter.title}</h2>
         </Link>
         <p>{post.node.frontmatter.author}</p>
       </ListGroupItem>

@@ -20,7 +20,7 @@ class BlogRoll extends React.Component {
                 backgroundColor: "white",
                 boxShadow: "0px 7px 15px #b1b1b1",
                 position: "relative",
-                borderRadius:"2%"
+                borderRadius: "2%",
               }}
               key={post.id}
             >
@@ -37,8 +37,8 @@ class BlogRoll extends React.Component {
                       alt={post.frontmatter.title}
                       style={{
                         width: "100%",
-                        borderTopLeftRadius:"2%",
-                        borderTopRightRadius:"2%"
+                        borderTopLeftRadius: "2%",
+                        borderTopRightRadius: "2%",
                       }}
                     />
                   </div>

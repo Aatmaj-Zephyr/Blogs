@@ -25,7 +25,7 @@ export default class BlogIndexPage extends React.Component {
                 margin: "0",
               }}
             >
-              <span style={{marginLeft:"9%"}}> All Posts</span>
+              <span style={{ marginLeft: "9%" }}> All Posts</span>
             </h1>
             <div className="m-2">
               <div className="content">

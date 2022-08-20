@@ -11,6 +11,7 @@ tags:
   - Linux
   - GSoC
 ---
+
 ![](/img/o2.jpeg)
 
 <!--StartFragment-->
@@ -47,10 +48,10 @@ There is also a significant difference between freeware and OSS. Freeware is fre
 
 The ‘what if?’ question always arises in our mind before we start contributing to open source. Here are a few points to summarize it for you :
 
-* It helps gain a deeper understanding of the software you are working on and helps improve your skills
-* Gives you a real life experience on working on projects with feedbacks from accomplished programmers
-* It gives you recognition in the community. You can leverage this to land yourself a good internship or job.
-* It gives you the satisfaction of being a part of something bigger and gaining the respect of your peers.
+- It helps gain a deeper understanding of the software you are working on and helps improve your skills
+- Gives you a real life experience on working on projects with feedbacks from accomplished programmers
+- It gives you recognition in the community. You can leverage this to land yourself a good internship or job.
+- It gives you the satisfaction of being a part of something bigger and gaining the respect of your peers.
 
 ## How to contribute to Open-source
 
@@ -67,26 +68,26 @@ You should usually open an issue in the following situations:
 
 Tips for communicating on issues:
 
-* If you see an open issue that you want to tackle, comment on the issue to let people know you’re on it. That way, people are less likely to duplicate your work.
-* If an issue was opened a while ago, it’s possible that it’s being addressed somewhere else, or has already been resolved, so comment to ask for confirmation before starting work.
-* If you opened an issue, but figured out the answer later on your own, comment on the issue to let people know, then close the issue. Even documenting that outcome is a contribution to the project.
+- If you see an open issue that you want to tackle, comment on the issue to let people know you’re on it. That way, people are less likely to duplicate your work.
+- If an issue was opened a while ago, it’s possible that it’s being addressed somewhere else, or has already been resolved, so comment to ask for confirmation before starting work.
+- If you opened an issue, but figured out the answer later on your own, comment on the issue to let people know, then close the issue. Even documenting that outcome is a contribution to the project.
 
 5. **Opening a Pull Request**
 
 Fork and clone the repo on your local machine and fix the bug. Once you push the changes to your fork ,you should usually open a pull request in the following situations:
 
-* Submit trivial fixes (for example, a typo, a broken link or an obvious error)
-* Start work on a contribution that was already asked for, or that you’ve already discussed, in an issue
+- Submit trivial fixes (for example, a typo, a broken link or an obvious error)
+- Start work on a contribution that was already asked for, or that you’ve already discussed, in an issue
 
 6. A pull request doesn’t have to represent finished work. It’s usually better to open a pull request early on, so others can watch or give feedback on your progress. Just mark it as a “WIP” (Work in Progress) in the subject line. You can always add more commits later.
 7. If the project is on **GitHub**, here’s how to submit a pull request:
 
-* Fork the repository and clone it locally. Connect your local to the original “upstream” repository by adding it as a remote. Pull in changes from “upstream” often so that you stay up to date so that when you submit your pull request, merge conflicts will be less likely.
-* Create a branch for your edits.
-* Reference any relevant issues or supporting documentation in your PR (for example, “Closes #37.”)
-* Include screenshots of the before and after if your changes include differences in a UI/UX. Drag and drop the images into the body of your pull request.
-* Test your changes! Run your changes against any existing tests if they exist and create new ones when needed. Whether tests exist or not, make sure your changes don’t break the existing project.
-* Contribute in the style of the project to the best of your abilities. This may mean using indents, semi-colons or comments differently than you would in your own repository, but makes it easier for the maintainer to merge, others to understand and maintain in the future.
+- Fork the repository and clone it locally. Connect your local to the original “upstream” repository by adding it as a remote. Pull in changes from “upstream” often so that you stay up to date so that when you submit your pull request, merge conflicts will be less likely.
+- Create a branch for your edits.
+- Reference any relevant issues or supporting documentation in your PR (for example, “Closes #37.”)
+- Include screenshots of the before and after if your changes include differences in a UI/UX. Drag and drop the images into the body of your pull request.
+- Test your changes! Run your changes against any existing tests if they exist and create new ones when needed. Whether tests exist or not, make sure your changes don’t break the existing project.
+- Contribute in the style of the project to the best of your abilities. This may mean using indents, semi-colons or comments differently than you would in your own repository, but makes it easier for the maintainer to merge, others to understand and maintain in the future.
 
 ## Open Source Programs and Rewards
 
@@ -108,15 +109,15 @@ Popular Licenses
 
 The following OSI-approved licenses are popular, widely used, or have strong communities:
 
-* [Apache License 2.0](https://opensource.org/licenses/Apache-2.0)
-* [BSD 3-Clause "New" or "Revised" license](https://opensource.org/licenses/BSD-3-Clause)
-* [BSD 2-Clause "Simplified" or "FreeBSD" license](https://opensource.org/licenses/BSD-2-Clause)
-* [GNU General Public License (GPL)](https://opensource.org/licenses/gpl-license)
-* [GNU Library or "Lesser" General Public License (LGPL)](https://opensource.org/licenses/lgpl-license)
-* [MIT license](https://opensource.org/licenses/MIT)
-* [Mozilla Public License 2.0](https://opensource.org/licenses/MPL-2.0)
-* [Common Development and Distribution License](https://opensource.org/licenses/CDDL-1.0)
-* [Eclipse Public License version 2.0](https://opensource.org/licenses/EPL-2.0)
+- [Apache License 2.0](https://opensource.org/licenses/Apache-2.0)
+- [BSD 3-Clause "New" or "Revised" license](https://opensource.org/licenses/BSD-3-Clause)
+- [BSD 2-Clause "Simplified" or "FreeBSD" license](https://opensource.org/licenses/BSD-2-Clause)
+- [GNU General Public License (GPL)](https://opensource.org/licenses/gpl-license)
+- [GNU Library or "Lesser" General Public License (LGPL)](https://opensource.org/licenses/lgpl-license)
+- [MIT license](https://opensource.org/licenses/MIT)
+- [Mozilla Public License 2.0](https://opensource.org/licenses/MPL-2.0)
+- [Common Development and Distribution License](https://opensource.org/licenses/CDDL-1.0)
+- [Eclipse Public License version 2.0](https://opensource.org/licenses/EPL-2.0)
 
 ## What does the community gain from open-source contributions
 

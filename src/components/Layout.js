@@ -8,7 +8,6 @@ import { withPrefix } from "gatsby";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "../sass/sections.sass";
 
-
 const TemplateWrapper = ({ children }) => {
   const { title, description } = useSiteMetadata();
 
